@@ -1,14 +1,11 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "contents"
-		},
-		{
-			"path": "contents/Tuan11"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "contents"
+    }
+  ],
+  "settings": {}
 }
