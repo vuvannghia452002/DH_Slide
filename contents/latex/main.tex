@@ -1,29 +1,47 @@
 \documentclass{beamer}
-\usetheme{Boadilla}
-% \usecolortheme{rose}
-% \usefonttheme[onlylarge]{structurebold}
-% \usefonttheme{professionalfonts}
-\setbeamercolor{title}{fg=red!80!black, bg=blue!20!white}
-% \setbeamertemplate{section in head/foot shaded}[default][20]
-% \setbeamertemplate{subsection in head/foot shaded}[default][20]
-% \setbeamertemplate{navigation symbols}{}
-% \setbeamertemplate{blocks}[rounded][shadow=true]
-% \setbeamerfont{small}{size=\small}
-% \setbeamerfont{footnote}{size=\footnotesize}
-% \setbeamerfont{script}{size=\scriptsize}
-% \setbeamerfont{tiny}{size=\tiny}
+\usetheme{CambridgeUS}
+% Đặt màu cho các block
+\setbeamercolor{block title}{bg=red!80!black, fg=white}
+\setbeamercolor{block body}{bg=red!10, fg=black}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[utf8]{vietnam}
 \usepackage{hyperref}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title[{\makebox[.15\paperwidth]{Human Resources Management}}]{Chủ đề: Human Resources Management}
-\author[Nhóm 22]{Nhóm 22
-% \\
-% Nguyễn Việt Anh 20216796 \\
-% Phùng Quốc Đạt 20216813 \\
-% Vũ Văn Nghĩa 20206205 \\
-% Mai Thị Tuyết Nhung 20216866
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\AtBeginSection[]
+{
+\begin{frame}<beamer>
+\frametitle{Nội dung}
+
+\tableofcontents[
+currentsection,
+subsectionstyle=hide/hide,
+subsubsectionstyle=hide/hide
+]
+
+\end{frame}
 }
+
+\AtBeginSubsection[]
+{
+\begin{frame}<beamer>
+\frametitle{Nội dung}
+
+\tableofcontents[
+currentsection,
+currentsubsection,
+subsectionstyle=show/shaded/hide,
+subsubsectionstyle=show/show/shaded/hide
+]
+
+\end{frame}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title[{\makebox[.15\paperwidth]{Human Resources Management}}]{Chủ đề: Human Resources Management}
+\author[Nhóm 22]{Nhóm 22}
 \date[Data Warehouse \& BI]{\today}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -32,23 +50,22 @@
 \titlepage
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \begin{frame}{Thành viên nhóm}
-% \begin{block}{Nhóm 3}
-% \centering
-% \begin{tabu} {|l|c|} \hline
-% Họ và tên & MSSV \\ \hline
-% Nguyễn Phan Anh & 20206113 \\
-% Nguyễn Việt Anh & 20206115 \\
-% Vũ Văn Nghĩa & 20206205 \\
-% Bùi Mạnh Tiến & 20206174 \\
-% Dương Đình Văn & 20206185 \\
-% Dương Công Thái & 20216883 \\ \hline
-% \end{tabu}
-% \end{block}
-% \end{frame}
+\begin{frame}{Thành viên nhóm}
+\begin{block}{Nhóm 22}
+\centering
+\begin{tabular} {|l|c|}
+\hline
+Họ và tên & MSSV \\
+\hline
+Nguyễn Việt Anh & 20216796 \\
+Phùng Quốc Đạt & 20216813 \\
+Vũ Văn Nghĩa & 20206205 \\
+Mai Thị Tuyết Nhung & 20216866 \\
+\hline
+\end{tabular}
+\end{block}
+\end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame{\tableofcontents}
-
 \section{Phần 1}
 \begin{frame}{Mục 1}
 \begin{itemize}
@@ -132,7 +149,6 @@
 \item Nội dung mục con 3.3
 \end{itemize}
 \end{frame}
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{}
 \centering
@@ -141,35 +157,3 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \AtBeginSection[] % Do nothing for \section*
-% {
-% \begin{frame}<beamer>
-% \frametitle{Outline}
-
-% \tableofcontents[
-% currentsection,
-% subsectionstyle=hide/hide,
-% subsubsectionstyle=hide/hide
-%]
-
-% \end{frame}
-%}
-
-% \AtBeginSubsection[]
-% {
-% \begin{frame}<beamer>
-% \frametitle{Outline}
-
-% \tableofcontents[
-% currentsection,
-% currentsubsection,
-% subsectionstyle=show/shaded/hide,
-% subsubsectionstyle=show/show/shaded/hide
-%]
-
-% \end{frame}
-%}
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% %%%%%%%%%%%%%%%%
