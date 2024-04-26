@@ -11,6 +11,9 @@
     }
   ],
   "settings": {
-    "latex-workshop.latex.autoBuild.run": "onFileChange"
+    "latex-workshop.latex.autoClean.run": "onSucceeded",
+    "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    "latex-workshop.latex.autoBuild.run": "onFileChange",
+    "editor.formatOnSave": false
   }
 }
