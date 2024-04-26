@@ -38,7 +38,7 @@ def format(path):
         file.write(contents)
 
 
-root = r"../../../"
+root = r"../../"
 tex_files = glob.glob(os.path.join(root, "**/*.tex"), recursive=True)
 for i in tex_files:
     format(i)
