@@ -5,6 +5,12 @@ import glob
 def format(path):
     with open(path, 'r', encoding="utf-8") as file:
         contents = file.read()
+    
+    
+    
+    contents = contents.replace('\\cite', ' \\cite')
+
+
 
     while "	" in contents:
         contents = contents.replace("	", ' ')
