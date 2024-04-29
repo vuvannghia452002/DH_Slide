@@ -11,26 +11,16 @@ Nhóm 22
 
 ![alt text](image-12.png)
 
-#
-
 Danh sách thành viên
-
 Nhóm 22:
-
 Nguyễn Việt Anh 20216796
-
 Phùng Quốc Đạt 20216813
-
 Vũ Văn Nghĩa 20206205
-
 Mai Thị Tuyết Nhung 20216866
 
 # Nội dung ... (Mục lục)
 
 # Khảo sát
-
-
-#
 
 ## Giới thiệu về HRM
 
@@ -40,15 +30,12 @@ https://talentbold.com/hrm-la-gi-tat-tan-tat-ve-human-resource-management-939-ns
 
 https://en.wikipedia.org/wiki/Human_resource_management
 
-#
-
 ## Business Model Canvas
 
 https://som.edu.vn/mo-hinh-business-model-canvas-la-gi/
 
 https://www.canva.com/design/DAGDrYFhMzE/9A5DeAlx2KgP-Aa-wmN-Nw/edit?utm_content=DAGDrYFhMzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-#
 ## Yêu cầu (Requirement tttttt)
 
 Tình hình hiện tại
@@ -58,24 +45,26 @@ Quy trình nghiệp vụ
 Yêu cầu
 ![alt text](image-3.png)
 
-
 ## Quy mô của dữ liệu
+
 Mô tả: Tập dữ liệu về xxxx từ năm 2222 đến năm 2222
 Nguồn dữ liệu: kaggle
 Kích thước bộ dữ liệu: xxxxx > 100 MB
-Số bản ghi: xxxxx 
+Số bản ghi: xxxxx
 Gồm xxxx files: xxx, xxx
+
 <!-- Thời gian tăng, dự đoán... -->
+
 ## Mô tả thông tin files
+
 Bảng xxx, dòng xxx để làm gì
 
-
 ## Data Exploration (Khám phá dữ liệu)
+
 taxpomy
 ![alt text](image-10.png)
 
 ![alt text](image-11.png)
-
 
 <!-- 🍀 Bước 3: Phân tích phân phối và đặc trưng của từng chiều -->
 
@@ -97,14 +86,16 @@ Từ đó bạn cũng tính được các đặc trưng như:
 
 <!-- ✍️ Hướng dẫn: bạn sử dụng tính năng pivot table, pivot chart hoặc sử dụng add-in Data Analysis để thống kê và vẽ các đặc trưng này -->
 
-
 # Phân tích và Thiết kế
 
 ## Kiến trúc hệ thống phân tích dữ liệu
 
 ![alt text](image-9.png)
 ![alt text](image-1.png)
-Staging
+1
+2 Staging
+3
+4
 
 <!-- https://www.canva.com/design/DAGDr5h1pEE/gsFg-GK1Y2-pzTf8nBDexA/edit?utm_content=DAGDr5h1pEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
 
@@ -114,41 +105,24 @@ Staging
 
 <!-- https://www.canva.com/design/DAGDrwE3P6s/0GVeEFesokKj0oLIIrbjhg/edit?utm_content=DAGDrwE3P6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
 
-#
-
 ## Quy trình ETL
 
-#
+Window kaggle ...
 
-## ETL
+## Thực hiện ETL
 
-BEFORE
-
-AFTER
-
-#
+Mục đích + Code + BEFORE + AFTER
 
 Mô hình dữ liệu Logic
 DIM
 Mô hình OLTP
 Mô hình OLAP
 
-#
-
-
-#
-
 AI: Data Mining (Khai phá dữ liệu)
-
-#
 
 # Xây dựng Dashboard
 
-#
-
 ## Mã QR Dashboard
-
-#
 
 # Tổng kết
 
@@ -179,10 +153,6 @@ Decision Making
 
 #
 
-#
-
-#
-
 Xác định các chiều khái niệm
 
 <!-- 3,4,6,8 -->
@@ -198,7 +168,6 @@ Xác định các chiều khái niệm
 👉 dữ liệu trong khoảng thời gian nào (mấy năm, mấy tháng)
 
 <!-- ✍️ Hướng dẫn: Bạn sử dụng tính năng remove duplicate với từng cột dữ liệu để tạo ra từng chiều rồi copy vào một sheet. -->
-
 
 <!-- 🍀 Bước 4: Phân tích tương quan -->
 
@@ -240,34 +209,22 @@ Bạn áp dụng các mô hình, phương pháp học sâu,... để tìm ra cá
 
 #
 
-#
-
 Gạch chân, tô màu
-
-#
 
 Chuyển đổi OLTP sang OLAP
 ![alt text](image-6.png)
 
 ![alt text](image-7.png)
 
-#
-
 Mô hình dữ liệu OLAP
 ![alt text](image-5.png)
-
-#
 
 Bảng mysql, ngôi sao
 ![alt text](image-8.png)
 
-#
-
 Dashboard
 
 ![alt text](image-2.png)
-
-#
 
 Các từ khóa bạn có thể tham khảo như:
 👉 Issue tree
