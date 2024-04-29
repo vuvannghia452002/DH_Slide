@@ -205,15 +205,6 @@ https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 <!-- https://downloadlynet.ir/2024/28/116043/01/machine-learning-data-science-with-python-kaggle-a-z/21/?#/116043-udemy-182411020524.html -->
 
 
-🍀 Bước 6: Khai phá dữ liệu (Data mining)
-Bạn áp dụng các mô hình, phương pháp học sâu,... để tìm ra các thông tin sâu hơn từ tập dữ liệu.
-🌳 Ví dụ:
-👉 Khách hàng khi mua sản phẩm A thì hay quan tâm tới sản phẩm nào khác
-👉 Các hành gian lận hay có các dấu hiệu gì
-👉 Dự báo được kế hoạch kinh doanh cho chu kỳ tiếp theo
-👉 Xu hướng sản phẩm đang dịch chuyển theo hướng nào
-
-#
 
 Các từ khóa bạn có thể tham khảo như:
 👉 Issue tree
@@ -234,3 +225,11 @@ https://hocexcelcoban.com/mindmap-ung-dung-trong-phan.../
 Trước đi làm thì mình có sử dụng một dạng biểu diễn đa chiều hơn cây phân tích là dạng bảng cho phép thể hiện được nhiều thông tin hơn.
 
 # AI: Data Mining (Khai phá dữ liệu)
+
+🍀 Bước 6: Khai phá dữ liệu (Data mining)
+Bạn áp dụng các mô hình, phương pháp học sâu,... để tìm ra các thông tin sâu hơn từ tập dữ liệu.
+🌳 Ví dụ:
+👉 Khách hàng khi mua sản phẩm A thì hay quan tâm tới sản phẩm nào khác
+👉 Các hành gian lận hay có các dấu hiệu gì
+👉 Dự báo được kế hoạch kinh doanh cho chu kỳ tiếp theo
+👉 Xu hướng sản phẩm đang dịch chuyển theo hướng nào
