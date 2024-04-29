@@ -14,7 +14,6 @@
 <!-- ![alt text](image-3.png) -->
 <!-- Phân tích xxxx theo xxxx -->
 
-[text](<Khám phá dữ liệu.md>)
 
 # Phân tích và Thiết kế
 
@@ -38,39 +37,10 @@
 <!-- ![alt text](image-7.png) -->
 <!-- ![alt text](image-6.png) -->
 
-Xác định các chiều khái niệm
-# Xác định các chiều khái niệm
 
-<!-- Ghi thêm số lượng (3 phòng ban...) -->
-<!-- 3,4,6,8 -->
-
-![alt text](image-4.png)
-🍀 Bước 1. Xác định các chiều (Dimension) và Giá trị phân tích (Facts) của khối dữ liệu
-
-🍀 Bước 2: Xác định hệ thống các chiều
-🌳 Ví dụ:
-👉 khu vực của khách hàng thì cụ thể là các khu vực nào
-👉 độ tuổi của khách hàng thì cụ thể là các độ tuổi nào
-👉 sản phẩm thì cụ thể danh sách các sản phẩm là gì
-👉 dữ liệu trong khoảng thời gian nào (mấy năm, mấy tháng)
-
-<!-- ✍️ Hướng dẫn: Bạn sử dụng tính năng remove duplicate với từng cột dữ liệu để tạo ra từng chiều rồi copy vào một sheet. -->
-
-<!-- ! -->
-<!-- 🍀 Bước 4: Phân tích tương quan -->
-
-Tiếp theo sau khi tìm hiểu phân phối. Ta đi vào điểm hiểu mối quan hệ giữa các thành phần với nhau.
-
-Mối quan hệ giữa dim-dim; dim-fact; fact-fact
-🌳 Ví dụ:
-👉 Mối quan hệ giữa thời gian gọi điện chăm sóc và tỷ lệ chuyển đổi
-👉 Khu vực chứa các tỉnh thành hay tỉnh thành chứa các khu vực hay không liên quan tới nhau
-👉 Mối quan hệ giữa độ tuổi và hạn mức tín dụng
-👉 Mối quan hệ giữa thu nhập và khả năng chi trả
-👉 Mối quan hệ giữa chi phí marketing và doanh số
-👉 Mối quan hệ giữa giá trị một đơn hàng và tỷ lệ chuyển đổi
-
-<!-- ✍️ Hướng dẫn: bạn sử dụng tính năng pivot table, pivot chart hoặc sử dụng add-in Data Analysis để thống kê và vẽ các đặc trưng này -->
+[text](<Xác định các chiều khái niệm.md>)
+[text](<Khám phá dữ liệu.md>)
+ 
 
 # Xây dựng Dashboard
 
