@@ -4,38 +4,16 @@
 
 [text](HRM.md)
 [text](<Business Model Canvas.md>)
+[text](<Quy trình nghiệp vụ.md>)
+ 
 
-## Quy trình nghiệp vụ
-
-Bảng UML
-
-## Yêu cầu (Requirement tttttt)
-
-### Tình hình hiện tại
-
-Data Sources + Database storage + report
-
-### Yêu cầu cải tiến
-
-Yêu cầu
-![alt text](image-3.png)
-Phân tích xxxx theo xxxx
-
-## Quy mô của dữ liệu
-
-Mô tả: Tập dữ liệu về xxxx từ năm 2222 đến năm 2222
-Nguồn dữ liệu: kaggle
-Kích thước bộ dữ liệu: xxxxx > 100 MB
-Số bản ghi: xxxxx? dòng cột
-Gồm xxxx files: xxx, xxx
-
-<!-- Thời gian tăng, dự đoán... -->
-
-## Mô tả thông tin files
-
-<!-- Mô tả các trường dữ liệu -->
-
-Bảng xxx, dòng xxx để làm gì
+<!-- ## Yêu cầu (Requirement tttttt) -->
+<!-- ### Tình hình hiện tại -->
+<!-- Data Sources + Database storage + report -->
+<!-- ### Yêu cầu cải tiến -->
+<!-- Yêu cầu -->
+<!-- ![alt text](image-3.png) -->
+<!-- Phân tích xxxx theo xxxx -->
 
 ## Data Exploration (Khám phá dữ liệu)
 
