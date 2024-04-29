@@ -192,6 +192,11 @@ Dashboard
 
 # Tổng kết
 
+![alt text](image-14.png)
+![alt text](image-15.png)
+
+<!--  -->
+
 https://www.kaggle.com/docs/api
 https://www.kaggle.com/code/colara/human-resources-analytics-a-descriptive-analysis
 https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
@@ -203,8 +208,6 @@ https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 
 <!-- https://downloadlynet.ir/2024/28/116039/01/machine-learning-data-science-with-python-kaggle-pandas/20/?#/116039-udemy-182411021524.html -->
 <!-- https://downloadlynet.ir/2024/28/116043/01/machine-learning-data-science-with-python-kaggle-a-z/21/?#/116043-udemy-182411020524.html -->
-
-
 
 Các từ khóa bạn có thể tham khảo như:
 👉 Issue tree
