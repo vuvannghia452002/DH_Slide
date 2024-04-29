@@ -143,7 +143,13 @@ Gạch chân, tô màu
 
 #
 
-Data model
+Chuyển đổi OLTP sang OLAP
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+#
+
+Mô hình dữ liệu OLAP
 ![alt text](image-5.png)
 
 #
