@@ -74,13 +74,15 @@ AFTER
 
 #
 
-XSTK: Data exploxxxxxxxxxx  
+XSTK: Data Exploration
+Khám phá dữ liệu
 EDA
 taxpomy
 
 #
 
-AI: Data miniming mmmmmmmmmmmmmmmm
+AI: Data Mining
+Khai phá dữ liệu
 
 #
 
@@ -116,7 +118,5 @@ https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 
 Data Sources
 Data Warehouse  
-Data Exploration
-Data Mining
 Data mart
 Decision Making
