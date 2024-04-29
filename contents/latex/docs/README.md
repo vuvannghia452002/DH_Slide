@@ -1,4 +1,5 @@
 Human Resources Management
+\title[{\makebox[.15\paperwidth]{Human Resources Management}}]{Chủ đề: Human Resources Management}
 
 
 GVHD: ThS. Nguyễn Danh Tú
@@ -30,6 +31,7 @@ Mai Thị Tuyết Nhung
 
 
 # Khảo sát
+\item HRM là gì?
 
 <!-- \subsection{Giới thiệu về HRM} -->
 <!-- \subsection{Business Model Canvas} -->
@@ -37,8 +39,13 @@ Mai Thị Tuyết Nhung
 # Phân tích và Thiết kế
 
 <!-- \subsection{Kiến trúc hệ thống phân tích dữ liệu} -->
+
+
+![alt text](image.png)
 <!-- \subsection{ETL} -->
 <!-- \subsection{ETL} -->
+\textcolor{red}{BEFORE}
+\textcolor{red}{AFTER}
 
 # Xây dựng Dashboard
 
