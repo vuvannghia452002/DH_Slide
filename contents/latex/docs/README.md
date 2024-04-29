@@ -134,6 +134,7 @@ Yêu cầu
 Xác định các chiều khái niệm
 
 <!-- 3,4,6,8 -->
+
 ![alt text](image-4.png)
 
 #
