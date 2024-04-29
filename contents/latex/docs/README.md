@@ -47,7 +47,7 @@ https://www.canva.com/design/DAGDrYFhMzE/9A5DeAlx2KgP-Aa-wmN-Nw/edit?utm_content
 #
 
 ## Kiến trúc hệ thống phân tích dữ liệu
-
+![alt text](image-9.png)
 ![alt text](image-1.png)
 Staging
 
@@ -155,7 +155,7 @@ Mô hình dữ liệu OLAP
 #
 
 Bảng mysql, ngôi sao
-
+![alt text](image-8.png)
 #
 
 Dashboard
