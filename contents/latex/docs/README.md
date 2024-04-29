@@ -1,3 +1,5 @@
+![alt text](image-12.png)
+
 Chủ đề:
 Human Resources Management (HRM)
 Quản lý nhân sự
@@ -6,10 +8,6 @@ GVHD: ThS. Nguyễn Danh Tú
 [Data Warehouse \& BI]
 Data Warehouse and Business Inteligence
 Kho dữ liệu và kinh doanh thông minh
-
-Nhóm 22
-
-![alt text](image-12.png)
 
 Danh sách thành viên
 Nhóm 22:
@@ -97,6 +95,11 @@ Từ đó bạn cũng tính được các đặc trưng như:
 3
 4
 
+Data Sources
+Data Warehouse  
+Data mart
+Decision Making
+
 <!-- https://www.canva.com/design/DAGDr5h1pEE/gsFg-GK1Y2-pzTf8nBDexA/edit?utm_content=DAGDr5h1pEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
 
 <!-- https://www.canva.com/design/DAGDrwKlKDU/5tBfEI7Mzsp5s6nIUIs7Tw/edit?utm_content=DAGDrwKlKDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
@@ -113,47 +116,14 @@ Window kaggle ...
 
 Mục đích + Code + BEFORE + AFTER
 
-Mô hình dữ liệu Logic
-DIM
-Mô hình OLTP
-Mô hình OLAP
+## Mô hình dữ liệu Logic
 
-AI: Data Mining (Khai phá dữ liệu)
+<!-- Mô hình dữ liệu OLAP   OLAP trung tên bên dướiii -->
 
-# Xây dựng Dashboard
+![alt text](image-5.png)
+![alt text](image-13.png)
 
-## Mã QR Dashboard
-
-# Tổng kết
-
-https://www.kaggle.com/docs/api
-
-https://www.kaggle.com/code/colara/human-resources-analytics-a-descriptive-analysis
-
-https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
-
-https://www.kaggle.com/code/jacksonchou/hr-analytics
-
-https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set
-
-https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
-
-https://www.kaggle.com/code/sayamkumar/employee-attrition-prediction/input
-
-https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
-
-<!-- https://downloadlynet.ir/2024/28/116039/01/machine-learning-data-science-with-python-kaggle-pandas/20/?#/116039-udemy-182411021524.html -->
-
-<!-- https://downloadlynet.ir/2024/28/116043/01/machine-learning-data-science-with-python-kaggle-a-z/21/?#/116043-udemy-182411020524.html -->
-
-Data Sources
-Data Warehouse  
-Data mart
-Decision Making
-
-#
-
-Xác định các chiều khái niệm
+# Xác định các chiều khái niệm
 
 <!-- 3,4,6,8 -->
 
@@ -184,6 +154,23 @@ Mối quan hệ giữa dim-dim; dim-fact; fact-fact
 
 <!-- ✍️ Hướng dẫn: bạn sử dụng tính năng pivot table, pivot chart hoặc sử dụng add-in Data Analysis để thống kê và vẽ các đặc trưng này -->
 
+# Mô hình OLTP
+
+# Mô hình OLAP
+
+Bảng mysql, ngôi sao
+![alt text](image-8.png)
+
+Gạch chân, tô màu
+
+Chuyển đổi OLTP sang OLAP
+![alt text](image-7.png)
+![alt text](image-6.png)
+
+# Xây dựng Dashboard
+
+## Mã QR Dashboard
+
 🍀 Bước 5: Phân tích đa chiều
 Ở bước này, bạn có thể phân tích một chủ điểm dựa cần phần tích (facts) trên một hệ thống các báo cáo nhìn cùng một lúc gọi là dashboard.
 Điều này giống như bạn nhìn hệ thống camera giám sát an ninh tại một tòa nhà hay hệ thống điều phối giao thông.
@@ -199,6 +186,25 @@ Bạn sử dụng các thao tác:
 
 <!-- ✍️ Hướng dẫn: bạn kết hợp với tính năng pivot table, pivot chart, slicer, timeline, sparkline,... để tạo một dashboard -->
 
+Dashboard
+
+![alt text](image-2.png)
+
+# Tổng kết
+
+https://www.kaggle.com/docs/api
+https://www.kaggle.com/code/colara/human-resources-analytics-a-descriptive-analysis
+https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
+https://www.kaggle.com/code/jacksonchou/hr-analytics
+https://www.kaggle.com/datasets/davidepolizzi/hr-data-set-based-on-human-resources-data-set
+https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
+https://www.kaggle.com/code/sayamkumar/employee-attrition-prediction/input
+https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
+
+<!-- https://downloadlynet.ir/2024/28/116039/01/machine-learning-data-science-with-python-kaggle-pandas/20/?#/116039-udemy-182411021524.html -->
+<!-- https://downloadlynet.ir/2024/28/116043/01/machine-learning-data-science-with-python-kaggle-a-z/21/?#/116043-udemy-182411020524.html -->
+
+
 🍀 Bước 6: Khai phá dữ liệu (Data mining)
 Bạn áp dụng các mô hình, phương pháp học sâu,... để tìm ra các thông tin sâu hơn từ tập dữ liệu.
 🌳 Ví dụ:
@@ -208,23 +214,6 @@ Bạn áp dụng các mô hình, phương pháp học sâu,... để tìm ra cá
 👉 Xu hướng sản phẩm đang dịch chuyển theo hướng nào
 
 #
-
-Gạch chân, tô màu
-
-Chuyển đổi OLTP sang OLAP
-![alt text](image-6.png)
-
-![alt text](image-7.png)
-
-Mô hình dữ liệu OLAP
-![alt text](image-5.png)
-
-Bảng mysql, ngôi sao
-![alt text](image-8.png)
-
-Dashboard
-
-![alt text](image-2.png)
 
 Các từ khóa bạn có thể tham khảo như:
 👉 Issue tree
@@ -243,3 +232,5 @@ https://www.craftingcases.com/profitability-tree-guide/
 link bài viết trên này trên website:
 https://hocexcelcoban.com/mindmap-ung-dung-trong-phan.../
 Trước đi làm thì mình có sử dụng một dạng biểu diễn đa chiều hơn cây phân tích là dạng bảng cho phép thể hiện được nhiều thông tin hơn.
+
+# AI: Data Mining (Khai phá dữ liệu)
