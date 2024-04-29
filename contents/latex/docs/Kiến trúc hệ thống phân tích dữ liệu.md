@@ -1,14 +1,55 @@
 ## Kiến trúc hệ thống phân tích dữ liệu
 
-![alt text](image-9.png)
-![alt text](image-1.png)
-1 Data Sources
-2 Staging
-3 Data Warehouse  
-4 BI
+### Kiến trúc hệ thống cũ
 
-<!-- Data mart -->
-<!-- Decision Making -->
+Data Sources
+csv
+excel
+
+<!--  -->
+
+Database storage
+table
+mysql
+
+<!--  -->
+
+Users
+reporting
+Power BI
+
+### Yêu cầu cải tiến
+
+Data Sources
+csv
+excel
+
+<!--  -->
+
+Staging
+Thủ tục ETL
+Data validation
+Data cleaning
+Data trànorming
+Data aggg
+Data loading
+mysql
+
+<!--  -->
+
+Data Warehouse  
+(dim fact)
+mysql
+
+<!--  -->
+
+Users
+Data Analysis
+Reports
+Data Mining
+Power BI
+
+<!--  -->
 
 <!-- https://www.canva.com/design/DAGDr5h1pEE/gsFg-GK1Y2-pzTf8nBDexA/edit?utm_content=DAGDr5h1pEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
 

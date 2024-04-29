@@ -8,7 +8,7 @@ Gồm xxxx files: xxx, xxx
 
 <!-- Thời gian tăng, dự đoán... -->
 
-## Mô tả thông tin files
+## Mô tả thông tin dữ liệu
 
 <!-- Mô tả các trường dữ liệu -->
 

@@ -10,12 +10,12 @@ https://en.wikipedia.org/wiki/Human_resource_management
 
 <!-- Video download -->
 
-## Vòng đời HRM
+## Vòng đời nhân sự
+
+![alt text](image-16.png)
 
 <!-- Video download -->
 
-## Luồng 1
+## Luồng nghiệp vụ
 
-## Luồng 2
-
-![alt text](image-16.png)
+## Luồng dữ liệu giữa các hệ thống

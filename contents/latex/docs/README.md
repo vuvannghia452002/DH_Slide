@@ -8,21 +8,22 @@
 [text](<Business Model Canvas.md>)
 [text](<Quy trình nghiệp vụ.md>)
 
+<!--
+## Yêu cầu  nghiệp vụ
+Phân tích xxxx theo xxxx
+INPUT
+OUTPUT
+![alt text](image-3.png)
+-->
+
 ## Quy mô của dữ liệu
 
 [text](<Quy mô của dữ liệu.md>)
 
-<!-- ## Yêu cầu (Requirement tttttt) -->
-<!-- ### Tình hình hiện tại -->
-<!-- Data Sources + Database storage + report -->
-<!-- ### Yêu cầu cải tiến -->
-<!-- Yêu cầu -->
-<!-- ![alt text](image-3.png) -->
-<!-- Phân tích xxxx theo xxxx -->
-
 # Phân tích và Thiết kế
 
 [text](<Kiến trúc hệ thống phân tích dữ liệu.md>)
+
 [text](<Quy trình ETL.md>)
 [text](<Thực hiện ETL.md>)
 
