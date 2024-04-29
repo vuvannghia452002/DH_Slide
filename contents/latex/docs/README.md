@@ -14,14 +14,11 @@
 <!-- ![alt text](image-3.png) -->
 <!-- Phân tích xxxx theo xxxx -->
 
-
 # Phân tích và Thiết kế
 
-[text](<Kiến trúc hệ thống phân tích dữ liệu.md>) 
+[text](<Kiến trúc hệ thống phân tích dữ liệu.md>)
 [text](<Quy trình ETL.md>)
 [text](<Thực hiện ETL.md>)
-
-
 
 <!-- ## Mô hình dữ liệu Logic -->
 <!-- Mô hình dữ liệu OLAP   OLAP trung tên bên dướiii -->
@@ -37,14 +34,13 @@
 <!-- ![alt text](image-7.png) -->
 <!-- ![alt text](image-6.png) -->
 
-
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
- 
 
 # Xây dựng Dashboard
-
+Dashboard
 ## Mã QR Dashboard
+
 ## xxxxxxxxxx
 
 🍀 Bước 5: Phân tích đa chiều
@@ -67,10 +63,8 @@ Dashboard
 ![alt text](image-2.png)
 
 # Tổng kết
-Tổng kết
 
-![alt text](image-14.png)
-![alt text](image-15.png)
+[text](<Tổng kết.md>)
 
 <!--  -->
 
