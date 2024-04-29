@@ -18,6 +18,8 @@ Vũ Văn Nghĩa 20206205
 
 Mai Thị Tuyết Nhung 20216866
 
+---
+
 # Khảo sát
 
 \item HRM là gì?
