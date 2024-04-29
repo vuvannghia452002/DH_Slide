@@ -2,9 +2,15 @@
 
 # Khảo sát
 
+## Phân tích nghiệp vụ
+
 [text](HRM.md)
 [text](<Business Model Canvas.md>)
 [text](<Quy trình nghiệp vụ.md>)
+
+## Quy mô của dữ liệu
+
+[text](<Quy mô của dữ liệu.md>)
 
 <!-- ## Yêu cầu (Requirement tttttt) -->
 <!-- ### Tình hình hiện tại -->
