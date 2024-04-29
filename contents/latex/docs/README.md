@@ -18,42 +18,36 @@
 
 # Phân tích và Thiết kế
 
-## Kiến trúc hệ thống phân tích dữ liệu
+[text](<Kiến trúc hệ thống phân tích dữ liệu.md>) 
 
-![alt text](image-9.png)
-![alt text](image-1.png)
-1 Data Sources
-2 Staging
-3 Data Warehouse  
-4 BI
-
-<!-- Data mart -->
-<!-- Decision Making -->
-
-<!-- https://www.canva.com/design/DAGDr5h1pEE/gsFg-GK1Y2-pzTf8nBDexA/edit?utm_content=DAGDr5h1pEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
-
-<!-- https://www.canva.com/design/DAGDrwKlKDU/5tBfEI7Mzsp5s6nIUIs7Tw/edit?utm_content=DAGDrwKlKDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
-
-<!-- https://www.canva.com/design/DAGDr7K5Yq0/Z64jK07TlLNI0mGCIvUdrQ/edit?utm_content=DAGDr7K5Yq0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
-
-<!-- https://www.canva.com/design/DAGDrwE3P6s/0GVeEFesokKj0oLIIrbjhg/edit?utm_content=DAGDrwE3P6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
+Quy trình ETL
 
 ## Quy trình ETL
 
 github action + Window + kaggle + ETL ...
+
+Thực hiện ETL
 
 ## Thực hiện ETL
 
 Proxudures Thủ tục
 Mục đích + Code + BEFORE + AFTER
 
-## Mô hình dữ liệu Logic
-
+<!-- ## Mô hình dữ liệu Logic -->
 <!-- Mô hình dữ liệu OLAP   OLAP trung tên bên dướiii -->
+<!-- ![alt text](image-5.png) -->
+<!-- ![alt text](image-13.png) -->
+<!-- # Mô hình OLTP -->
+<!-- # Mô hình ERD -->
+<!-- # Mô hình OLAP -->
+<!-- Bảng mysql, ngôi sao -->
+<!-- ![alt text](image-8.png) -->
+<!-- Gạch chân, tô màu -->
+<!-- Chuyển đổi OLTP sang OLAP -->
+<!-- ![alt text](image-7.png) -->
+<!-- ![alt text](image-6.png) -->
 
-![alt text](image-5.png)
-![alt text](image-13.png)
-
+Xác định các chiều khái niệm
 # Xác định các chiều khái niệm
 
 <!-- Ghi thêm số lượng (3 phòng ban...) -->
@@ -87,24 +81,10 @@ Mối quan hệ giữa dim-dim; dim-fact; fact-fact
 
 <!-- ✍️ Hướng dẫn: bạn sử dụng tính năng pivot table, pivot chart hoặc sử dụng add-in Data Analysis để thống kê và vẽ các đặc trưng này -->
 
-# Mô hình OLTP
-
-# Mô hình ERD
-
-# Mô hình OLAP
-
-Bảng mysql, ngôi sao
-![alt text](image-8.png)
-
-Gạch chân, tô màu
-
-Chuyển đổi OLTP sang OLAP
-![alt text](image-7.png)
-![alt text](image-6.png)
-
 # Xây dựng Dashboard
 
 ## Mã QR Dashboard
+## xxxxxxxxxx
 
 🍀 Bước 5: Phân tích đa chiều
 Ở bước này, bạn có thể phân tích một chủ điểm dựa cần phần tích (facts) trên một hệ thống các báo cáo nhìn cùng một lúc gọi là dashboard.
@@ -126,6 +106,7 @@ Dashboard
 ![alt text](image-2.png)
 
 # Tổng kết
+Tổng kết
 
 ![alt text](image-14.png)
 ![alt text](image-15.png)
