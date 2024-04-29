@@ -7,14 +7,9 @@
 [text](HRM.md)
 [text](<Business Model Canvas.md>)
 [text](<Quy trình nghiệp vụ.md>)
+[text](<Yêu cầu nghiệp vụ.md>)
 
-<!--
-## Yêu cầu  nghiệp vụ
-Phân tích xxxx theo xxxx
-INPUT
-OUTPUT
-![alt text](image-3.png)
--->
+ 
 
 ## Quy mô của dữ liệu
 
