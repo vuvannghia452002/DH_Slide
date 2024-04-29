@@ -37,31 +37,8 @@
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
 
-# Xây dựng Dashboard
-Dashboard
-## Mã QR Dashboard
-
-## xxxxxxxxxx
-
-🍀 Bước 5: Phân tích đa chiều
-Ở bước này, bạn có thể phân tích một chủ điểm dựa cần phần tích (facts) trên một hệ thống các báo cáo nhìn cùng một lúc gọi là dashboard.
-Điều này giống như bạn nhìn hệ thống camera giám sát an ninh tại một tòa nhà hay hệ thống điều phối giao thông.
-
-Thông qua các slice & dice cắt lớp sẽ giúp bạn mổ xẻ và phân tích được chi tiết dữ liệu hơn.
-Bạn sử dụng các thao tác:
-👉 Slice
-👉 Dice
-👉 Pivot
-👉 Rollup
-👉 Drill Down
-để phân tích.
-
-<!-- ✍️ Hướng dẫn: bạn kết hợp với tính năng pivot table, pivot chart, slicer, timeline, sparkline,... để tạo một dashboard -->
-
-Dashboard
-
-![alt text](image-2.png)
-
+# Xây dựng Dashboard 
+[text](Dashboard.md)
 # Tổng kết
 
 [text](<Tổng kết.md>)
