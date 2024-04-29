@@ -19,19 +19,10 @@
 # Phân tích và Thiết kế
 
 [text](<Kiến trúc hệ thống phân tích dữ liệu.md>) 
+[text](<Quy trình ETL.md>)
+[text](<Thực hiện ETL.md>)
 
-Quy trình ETL
 
-## Quy trình ETL
-
-github action + Window + kaggle + ETL ...
-
-Thực hiện ETL
-
-## Thực hiện ETL
-
-Proxudures Thủ tục
-Mục đích + Code + BEFORE + AFTER
 
 <!-- ## Mô hình dữ liệu Logic -->
 <!-- Mô hình dữ liệu OLAP   OLAP trung tên bên dướiii -->
