@@ -1,10 +1,11 @@
-HRM
-
-Chủ đề: Human Resources Management
-
+Chủ đề:
+Human Resources Management (HRM)
+Quản lý nhân sự
 GVHD: ThS. Nguyễn Danh Tú
 
 [Data Warehouse \& BI]
+Data Warehouse and Business Inteligence
+Kho dữ liệu và kinh doanh thông minh
 
 #
 
