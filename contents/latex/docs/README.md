@@ -7,7 +7,13 @@ GVHD: ThS. Nguyễn Danh Tú
 Data Warehouse and Business Inteligence
 Kho dữ liệu và kinh doanh thông minh
 
+Nhóm 22
+
+![alt text](image-12.png)
+
 #
+
+Danh sách thành viên
 
 Nhóm 22:
 
@@ -19,9 +25,16 @@ Vũ Văn Nghĩa 20206205
 
 Mai Thị Tuyết Nhung 20216866
 
-#
+# Nội dung ...
 
 # Khảo sát
+
+Yêu cầu
+
+
+
+
+
 
 #
 
