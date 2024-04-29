@@ -25,15 +25,9 @@ Vũ Văn Nghĩa 20206205
 
 Mai Thị Tuyết Nhung 20216866
 
-# Nội dung ...
+# Nội dung ... (Mục lục)
 
 # Khảo sát
-
-Yêu cầu
-
-
-
-
 
 
 #
@@ -55,10 +49,56 @@ https://som.edu.vn/mo-hinh-business-model-canvas-la-gi/
 https://www.canva.com/design/DAGDrYFhMzE/9A5DeAlx2KgP-Aa-wmN-Nw/edit?utm_content=DAGDrYFhMzE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 #
+## Yêu cầu (Requirement tttttt)
+
+Tình hình hiện tại
+Yêu cầu cải tiến
+Quy trình nghiệp vụ
+
+Yêu cầu
+![alt text](image-3.png)
+
+
+## Quy mô của dữ liệu
+Mô tả: Tập dữ liệu về xxxx từ năm 2222 đến năm 2222
+Nguồn dữ liệu: kaggle
+Kích thước bộ dữ liệu: xxxxx > 100 MB
+Số bản ghi: xxxxx 
+Gồm xxxx files: xxx, xxx
+<!-- Thời gian tăng, dự đoán... -->
+## Mô tả thông tin files
+Bảng xxx, dòng xxx để làm gì
+
+
+## Data Exploration (Khám phá dữ liệu)
+taxpomy
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+
+<!-- 🍀 Bước 3: Phân tích phân phối và đặc trưng của từng chiều -->
+
+Sau khi liệt kê từng chiều. Bạn có thể tiến tới phân tích phân phối, đặc trưng của từng chiều đó.
+
+Ta có thể mô tả phân bố này trên nhiều fact với cùng 1 dim.
+🌳 Ví dụ:
+👉 Phân bố doanh thu theo khu vực
+👉 Phân bố khách hàng theo khu vực
+👉 Phân bố doanh thu theo kênh marketing
+👉 Phân bố khách hàng theo độ tuổi
+👉 Phân bố các dự án theo mã nguồn
+👉 Phân bố thời lượng sử dụng ứng dụng theo thời gian (khung giờ, tuần, ngày,...)
+
+Từ đó bạn cũng tính được các đặc trưng như:
+👉 doanh thu trung bình một đơn hàng
+👉 Độ tuổi trung bình của khách hàng
+👉 Khung giờ nào user vào ứng dụng nhiều nhất,...
+
+<!-- ✍️ Hướng dẫn: bạn sử dụng tính năng pivot table, pivot chart hoặc sử dụng add-in Data Analysis để thống kê và vẽ các đặc trưng này -->
+
 
 # Phân tích và Thiết kế
-
-#
 
 ## Kiến trúc hệ thống phân tích dữ liệu
 
@@ -88,20 +128,17 @@ AFTER
 
 #
 
-#
-
-XSTK: Data Exploration
-Khám phá dữ liệu
-EDA
-taxpomy
-![alt text](image-10.png)
-
-![alt text](image-11.png)
+Mô hình dữ liệu Logic
+DIM
+Mô hình OLTP
+Mô hình OLAP
 
 #
 
-AI: Data Mining
-Khai phá dữ liệu
+
+#
+
+AI: Data Mining (Khai phá dữ liệu)
 
 #
 
@@ -144,9 +181,6 @@ Decision Making
 
 #
 
-Yêu cầu
-![alt text](image-3.png)
-
 #
 
 Xác định các chiều khái niệm
@@ -165,25 +199,6 @@ Xác định các chiều khái niệm
 
 <!-- ✍️ Hướng dẫn: Bạn sử dụng tính năng remove duplicate với từng cột dữ liệu để tạo ra từng chiều rồi copy vào một sheet. -->
 
-<!-- 🍀 Bước 3: Phân tích phân phối và đặc trưng của từng chiều -->
-
-Sau khi liệt kê từng chiều. Bạn có thể tiến tới phân tích phân phối, đặc trưng của từng chiều đó.
-
-Ta có thể mô tả phân bố này trên nhiều fact với cùng 1 dim.
-🌳 Ví dụ:
-👉 Phân bố doanh thu theo khu vực
-👉 Phân bố khách hàng theo khu vực
-👉 Phân bố doanh thu theo kênh marketing
-👉 Phân bố khách hàng theo độ tuổi
-👉 Phân bố các dự án theo mã nguồn
-👉 Phân bố thời lượng sử dụng ứng dụng theo thời gian (khung giờ, tuần, ngày,...)
-
-Từ đó bạn cũng tính được các đặc trưng như:
-👉 doanh thu trung bình một đơn hàng
-👉 Độ tuổi trung bình của khách hàng
-👉 Khung giờ nào user vào ứng dụng nhiều nhất,...
-
-<!-- ✍️ Hướng dẫn: bạn sử dụng tính năng pivot table, pivot chart hoặc sử dụng add-in Data Analysis để thống kê và vẽ các đặc trưng này -->
 
 <!-- 🍀 Bước 4: Phân tích tương quan -->
 
