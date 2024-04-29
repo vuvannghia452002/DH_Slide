@@ -37,8 +37,10 @@
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
 
-# Xây dựng Dashboard 
+# Xây dựng Dashboard
+
 [text](Dashboard.md)
+
 # Tổng kết
 
 [text](<Tổng kết.md>)
