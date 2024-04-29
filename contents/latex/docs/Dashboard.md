@@ -10,4 +10,4 @@ Số có nghĩa
 
 Dashboard khác nhau đa dạng
 
-![alt text](image-2.png)
+![alt text](image-21.png)
