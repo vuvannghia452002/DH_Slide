@@ -62,3 +62,12 @@ AFTER
 
 # Tổng kết
 
+#
+
+XSTK: Data exploxxxxxxxxxx  
+EDA
+taxpomy
+
+#
+
+AI: Data miniming mmmmmmmmmmmmmmmm
