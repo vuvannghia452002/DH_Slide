@@ -50,6 +50,7 @@ https://www.canva.com/design/DAGDrYFhMzE/9A5DeAlx2KgP-Aa-wmN-Nw/edit?utm_content
 
 ![alt text](image-1.png)
 Staging
+
 <!-- https://www.canva.com/design/DAGDr5h1pEE/gsFg-GK1Y2-pzTf8nBDexA/edit?utm_content=DAGDr5h1pEE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
 
 <!-- https://www.canva.com/design/DAGDrwKlKDU/5tBfEI7Mzsp5s6nIUIs7Tw/edit?utm_content=DAGDrwKlKDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton -->
@@ -120,3 +121,34 @@ Data Sources
 Data Warehouse  
 Data mart
 Decision Making
+
+#
+
+#
+
+Yêu cầu
+![alt text](image-3.png)
+
+#
+
+Xác định các chiều khái niệm
+![alt text](image-4.png)
+
+#
+
+Gạch chân, tô màu
+
+#
+
+Data model
+![alt text](image-5.png)
+
+#
+
+Bảng mysql, ngôi sao
+
+#
+
+Dashboard
+
+![alt text](image-2.png)
