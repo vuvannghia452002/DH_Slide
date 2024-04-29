@@ -34,6 +34,7 @@
 <!-- ![alt text](image-7.png) -->
 <!-- ![alt text](image-6.png) -->
 
+Dim có trước OLAP
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
 

@@ -14,4 +14,13 @@ https://en.wikipedia.org/wiki/Human_resource_management
 
 <!-- Video download -->
 
+## Luồng 1
+
+## Luồng 2
+
 ![alt text](image-16.png)
+
+![alt text](image-20.png)
+
+![alt text](image-18.png)
+![alt text](image-19.png)

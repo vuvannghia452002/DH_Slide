@@ -1,5 +1,5 @@
-
 ## Thực hiện ETL
 
 Proxudures Thủ tục
-Mục đích + Code + BEFORE + AFTER
+
+Mục đích (Ví dụ: xxxxxx) + Code + BEFORE + AFTER
