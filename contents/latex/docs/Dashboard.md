@@ -8,4 +8,6 @@ Số 12345=12,345
 
 Số có nghĩa
 
+Dashboard khác nhau đa dạng
+
 ![alt text](image-2.png)

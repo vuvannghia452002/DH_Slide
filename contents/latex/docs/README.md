@@ -9,8 +9,6 @@
 [text](<Quy trình nghiệp vụ.md>)
 [text](<Yêu cầu nghiệp vụ.md>)
 
- 
-
 ## Quy mô của dữ liệu
 
 [text](<Quy mô của dữ liệu.md>)
@@ -18,7 +16,6 @@
 # Phân tích và Thiết kế
 
 [text](<Kiến trúc hệ thống phân tích dữ liệu.md>)
-
 [text](<Quy trình ETL.md>)
 [text](<Thực hiện ETL.md>)
 
@@ -39,6 +36,11 @@
 Dim có trước OLAP
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
+
+<!-- !         DIM -->
+<!-- !         ERD -->
+<!-- !         OLTP -->
+<!-- !         OLAP -->
 
 # Xây dựng Dashboard
 

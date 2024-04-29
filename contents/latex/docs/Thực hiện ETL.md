@@ -1,5 +1,5 @@
 ## Thực hiện ETL
 
-Proxudures Thủ tục
+Thủ tục Procedure
 
 Mục đích (Ví dụ: xxxxxx) + Code + BEFORE + AFTER
