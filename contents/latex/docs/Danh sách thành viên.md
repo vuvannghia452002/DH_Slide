@@ -1,4 +1,5 @@
-[text](<Danh sách thành viên.md>)
+
+
 ![alt text](image-12.png)
 
 Chủ đề:
