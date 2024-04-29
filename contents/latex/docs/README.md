@@ -22,28 +22,49 @@ Mai Thị Tuyết Nhung 20216866
 
 # Khảo sát
 
-\item HRM là gì?
+---
 
-<!-- \subsection{Giới thiệu về HRM} -->
+## Giới thiệu về HRM
 
-<!-- \subsection{Business Model Canvas} -->
+HRM là gì?
+
+---
+
+## Business Model Canvas
+
+---
 
 # Phân tích và Thiết kế
 
-<!-- \subsection{Kiến trúc hệ thống phân tích dữ liệu} -->
+---
+
+## Kiến trúc hệ thống phân tích dữ liệu
 
 ![alt text](image.png)
 
-<!-- \subsection{ETL} -->
+---
 
-<!-- \subsection{ETL} -->
+## ETL
 
-\textcolor{red}{BEFORE}
+BEFORE
 
-\textcolor{red}{AFTER}
+AFTER
+
+---
 
 # Xây dựng Dashboard
 
-\subsection{Mã QR Dashboard}
+---
+
+## Mã QR Dashboard
+
+---
 
 # Tổng kết
+
+
+---
+#
+##
+###
+####
