@@ -60,6 +60,10 @@ https://www.canva.com/design/DAGDrYFhMzE/9A5DeAlx2KgP-Aa-wmN-Nw/edit?utm_content
 
 #
 
+## Quy trình ETL
+
+#
+
 ## ETL
 
 BEFORE
@@ -110,4 +114,9 @@ https://www.kaggle.com/datasets/rhuebner/human-resources-data-set/data
 
 <!-- https://downloadlynet.ir/2024/28/116043/01/machine-learning-data-science-with-python-kaggle-a-z/21/?#/116043-udemy-182411020524.html -->
 
+Data Sources
+Data Warehouse  
+Data Exploration
+Data Mining
 Data mart
+Decision Making
