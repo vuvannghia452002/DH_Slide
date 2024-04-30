@@ -33,12 +33,13 @@
 <!-- ![alt text](image-7.png) -->
 <!-- ![alt text](image-6.png) -->
 
+<!-- !         ERD -->
+<!-- !         DIM -->
+
 Dim có trước OLAP
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
 
-<!-- !         DIM -->
-<!-- !         ERD -->
 <!-- !         OLTP -->
 <!-- !         OLAP -->
 

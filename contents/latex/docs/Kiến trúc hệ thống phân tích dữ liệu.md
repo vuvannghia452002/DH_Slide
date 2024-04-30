@@ -1,5 +1,7 @@
 ## Kiến trúc hệ thống phân tích dữ liệu
 
+![alt text](image-29.png)
+
 ### Kiến trúc hệ thống cũ
 
 Data Sources
