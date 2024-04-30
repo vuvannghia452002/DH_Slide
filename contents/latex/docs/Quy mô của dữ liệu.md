@@ -9,6 +9,8 @@ Gồm xxxx files: xxx, xxx
 
 <!-- Thời gian tăng, dự đoán... -->
 
+Tần suất cập nhật dữ liệu mới (dạng biểu đồ theo thời gian). Bổ sung thêm
+
 ## Mô tả thông tin dữ liệu
 
 ![alt text](image-28.png)
