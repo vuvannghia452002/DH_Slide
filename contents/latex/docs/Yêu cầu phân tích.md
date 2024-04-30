@@ -1,9 +1,13 @@
 ## Yêu cầu phân tích
 
-"_) Trình bày theo các chủ điểm cần phân tích
-_) Các chủ điểm này cần quan tâm theo các khía cạnh gì
-_) Trình bày được theo dạng cây yêu cầu phân tích
-_) Trình bày được chi tiết cây phân tích dữ liệu của từng dashboard"
+
+Trình bày theo các chủ điểm cần phân tích
+
+Các chủ điểm này cần quan tâm theo các khía cạnh gì
+
+Trình bày được theo dạng cây yêu cầu phân tích
+
+Trình bày được chi tiết cây phân tích dữ liệu của từng dashboard"
 
 ![alt text](image-3.png)
 
