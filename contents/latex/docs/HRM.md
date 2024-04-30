@@ -1,4 +1,4 @@
-## Giới thiệu về HRM
+### Giới thiệu về HRM
 
 ![alt text](image-22.png)
 
@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Human_resource_management
 
 <!-- Video download -->
 
-## Vòng đời nhân sự
+### Vòng đời nhân sự
 
 ![alt text](image-16.png)
 
