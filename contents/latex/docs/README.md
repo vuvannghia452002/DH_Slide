@@ -7,11 +7,17 @@
 [text](HRM.md)
 [text](<Business Model Canvas.md>)
 [text](<Quy trình nghiệp vụ.md>)
-[text](<Yêu cầu nghiệp vụ.md>)
+Cây nghiệp vụ
+[text](<Yêu cầu phân tích.md>)
 
 ## Quy mô của dữ liệu
 
 [text](<Quy mô của dữ liệu.md>)
+
+<!-- *) Luồng dữ liệu giữa các hệ thống CNTT" -->
+ERD hệ thống OLTP, Data flow				
+<!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP -->
+
 
 # Phân tích và Thiết kế
 
