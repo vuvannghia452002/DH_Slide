@@ -9,6 +9,17 @@
 [text](<Quy trình nghiệp vụ.md>)
 [text](<Yêu cầu nghiệp vụ.md>)
 
+
+
+
+
+
+
+
+
+
+
+
 ## Quy mô của dữ liệu
 
 [text](<Quy mô của dữ liệu.md>)
