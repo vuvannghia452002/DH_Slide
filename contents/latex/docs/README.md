@@ -5,17 +5,29 @@
 
 
 
+% \begin{frame}{Quy trình nghiệp vụ - Luồng dữ liệu}
+% \begin{figure}[H]
+% \centering
+% \includegraphics[scale = 0.3]{pictures/black.png}
+% % <!-- Bảng UML -->
+
+% % <!--, Data flow -->
+% % <!-- *) Luồng dữ liệu giữa các hệ thống CNTT" -->
+% \end{figure}
+% \end{frame}
+
+3 Luồng dữ liệu giữa các hệ thống CNTT 
 
 
-
-
-
-
-
-
-<!-- ERD hệ thống OLTP, Data flow					 -->
-\*) Luồng dữ liệu giữa các hệ thống CNTT 
+3 Mô hình ERD hệ thống OLTP
 <!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP	 -->
+
+
+
+
+
+
+
 
 <!--  -->
 
@@ -33,7 +45,6 @@
 <!-- ![alt text](image-5.png) -->
 <!-- ![alt text](image-13.png) -->
 <!-- # Mô hình OLTP -->
-<!-- # Mô hình ERD -->
 <!-- # Mô hình OLAP -->
 <!-- Bảng mysql, ngôi sao -->
 <!-- ![alt text](image-8.png) -->
@@ -42,7 +53,6 @@
 <!-- ![alt text](image-7.png) -->
 <!-- ![alt text](image-6.png) -->
 
-<!-- !         ERD -->
 <!-- !         DIM -->
 
 Dim có trước OLAP
