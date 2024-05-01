@@ -1,15 +1,5 @@
-
-
-
-
-
 \documentclass{beamer}
 \usetheme{CambridgeUS}
-
-
-
-
-
 
 % Đặt màu cho các block
 \setbeamercolor{block title}{bg=red!80!black, fg=white}
@@ -24,6 +14,8 @@
 % Dùng để tạo văn bản ngẫu nhiên
 \usepackage{lipsum}
 % \usepackage{xcolor}
+%
+\usepackage{tikz}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \AtBeginSection[]
 {
@@ -61,7 +53,14 @@ subsubsectionstyle=hide/hide
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}
+
+\begin{tikzpicture}[remember picture, overlay]
+\node[anchor=center, inner sep=0pt] at (current page.center) {\includegraphics[width=\paperwidth, height=\paperheight]{pictures/HUST2.jpeg}};
+\fill[white, opacity=0.8] (current page.south west) rectangle (current page.north east);
+\end{tikzpicture}
+
 \titlepage
+
 \end{frame}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{frame}{Thành viên nhóm}
