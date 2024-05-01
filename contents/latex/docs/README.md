@@ -119,3 +119,15 @@ Public được dashboard lên website
 <!-- Tiền xử lý dữ liệu -->
 <!-- Các giải pháp tiền xử lý dữ liệu thực tiễn -->
 <!-- Các tính năng cập nhật mới của các công cụ (trực quan hóa dữ liệu, tiền xử lý dữ liệu,...) -->
+
+
+
+
+
+<!-- 🍀 HƯỚNG MỞ RỘNG. -->
+<!-- 🆗Tổ chức hoạt động tiền xử lý dữ liệu trong CSDL. có -->
+<!-- 👉Ứng dụng AI/Copilot. Bổ sung thêm -->
+<!-- 👉Sử dụng Các ETL tools/Data pipeline. Bổ sung thêm -->
+<!-- 👉Thu thập dữ liệu thực sử dụng API. Bổ sung thêm -->
+<!-- 👉Tính năng mới của các công cụ (PowerBI, …). Bổ sung thêm -->
+<!-- 🆗Khai phá dữ liêu (phân lớp, phận cụm, luật kết hợp…). có -->
