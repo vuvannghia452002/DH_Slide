@@ -59,6 +59,16 @@ Dim có trước OLAP
 
 <!--  -->
 
+
+Nhận xét của thầy
+13
+![alt text](image-20.png)
+6
+![alt text](image-18.png)
+![alt text](image-19.png)
+3
+<!--  -->
+
 Các từ khóa bạn có thể tham khảo như:
 👉 Issue tree
 👉 Data analysis taxonomy
