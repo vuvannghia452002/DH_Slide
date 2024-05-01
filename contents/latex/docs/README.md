@@ -2,27 +2,6 @@
 
 <!--  -->
 
-<!-- 1.4 Hệ thống dữ liệu					  -->
-<!-- 1.4.1      Quy mô của dữ liệu					  -->
-...
-số lượng bản ghi
-<!-- 1.4.1    Mô tả thông tin dữ liệu			  -->
-
-![alt text](image-28.png)
-
-<!-- Mô tả các trường dữ liệu -->
-
-Bảng xxx, dòng xxx để làm gì
-
-
-<!-- 1.4.1   Tần suất cập nhật dữ liệu		  -->
-hình ảnh (dạng biểu đồ theo thời gian)
-=> nhận xét tăng giảm....
-
-<!-- 1.4.1  Dự báo  tần suất cập nhật dữ liệu		 mới -->
-AI
-<!-- 1.4.1   Phân loại dữ liệu Data Taxonomy -->
-
 
 
 
