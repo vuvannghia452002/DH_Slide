@@ -5,34 +5,12 @@
 
 
 
-% \begin{frame}{Quy trình nghiệp vụ - Luồng dữ liệu}
-% \begin{figure}[H]
-% \centering
-% \includegraphics[scale = 0.3]{pictures/black.png}
-% % <!-- Bảng UML -->
-
-% % <!--, Data flow -->
-% % <!-- *) Luồng dữ liệu giữa các hệ thống CNTT" -->
-% \end{figure}
-% \end{frame}
-
-3 Luồng dữ liệu giữa các hệ thống CNTT 
-
-
-3 Mô hình ERD hệ thống OLTP
-<!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP	 -->
-
-
-
-
-
 
 
 
 <!--  -->
 
 
-[text](<xoa/Quy mô của dữ liệu.md>)
 
 # Phân tích và Thiết kế
 
