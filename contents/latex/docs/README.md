@@ -3,15 +3,6 @@
 <!--  -->
 
 
-<!--1.2 Quy trình nghiệp vụ			 -->
-<!-- *) có đánh dấu hệ thống phân tích ở những giai đoạn nào của quy trình -->
-
-<!--1.2.1      Mô tả quy trình nghiệp vụ			 -->
-<!--1.2.1      Cây nghiệp vụ			 -->
-<!--1.2.1      Canva			 -->
-
-
-
 <!-- 1.3. Yêu cầu phân tích					" -->
 <!-- *) Trình bày theo các chủ điểm cần phân tích -->
 <!-- *) Các chủ điểm này cần quan tâm theo các khía cạnh gì -->
