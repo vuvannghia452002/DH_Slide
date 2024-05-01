@@ -15,9 +15,10 @@ Cây nghiệp vụ
 [text](<Quy mô của dữ liệu.md>)
 
 <!-- *) Luồng dữ liệu giữa các hệ thống CNTT" -->
-ERD hệ thống OLTP, Data flow				
-<!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP -->
 
+ERD hệ thống OLTP, Data flow
+
+<!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP -->
 
 # Phân tích và Thiết kế
 
@@ -56,17 +57,8 @@ Dim có trước OLAP
 # Tổng kết
 
 [text](<Tổng kết.md>)
+[text](<Nhận xét của thầy.md>)
 
-<!--  -->
-
-
-Nhận xét của thầy
-13
-![alt text](image-20.png)
-6
-![alt text](image-18.png)
-![alt text](image-19.png)
-3
 <!--  -->
 
 Các từ khóa bạn có thể tham khảo như:
