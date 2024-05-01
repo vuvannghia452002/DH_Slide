@@ -1,25 +1,10 @@
 [text](<Danh sách thành viên.md>)
-
-<!--  -->
-
-
-
-
-
-
-
-<!--  -->
-
-
-
-# Phân tích và Thiết kế
-
 [text](<Kiến trúc hệ thống phân tích dữ liệu.md>)
 [text](<Quy trình ETL.md>)
 [text](<Thực hiện ETL.md>)
 
 <!-- ## Mô hình dữ liệu Logic -->
-<!-- Mô hình dữ liệu OLAP   OLAP trung tên bên dướiii -->
+<!-- Mô hình dữ liệu OLAP OLAP trung tên bên dướiii -->
 <!-- ![alt text](image-5.png) -->
 <!-- ![alt text](image-13.png) -->
 <!-- # Mô hình OLTP -->
@@ -31,14 +16,14 @@
 <!-- ![alt text](image-7.png) -->
 <!-- ![alt text](image-6.png) -->
 
-<!-- !         DIM -->
+<!-- ! DIM -->
 
 Dim có trước OLAP
 [text](<Xác định các chiều khái niệm.md>)
 [text](<Khám phá dữ liệu.md>)
 
-<!-- !         OLTP -->
-<!-- !         OLAP -->
+<!-- ! OLTP -->
+<!-- ! OLAP -->
 
 # Xây dựng Dashboard
 
@@ -49,7 +34,7 @@ Dim có trước OLAP
 [text](<Tổng kết.md>)
 [text](<Nhận xét của thầy.md>)
 
-<!--  -->
+<!-- -->
 
 Các từ khóa bạn có thể tham khảo như:
 👉 Issue tree
@@ -79,4 +64,4 @@ Bạn áp dụng các mô hình, phương pháp học sâu,... để tìm ra cá
 👉 Dự báo được kế hoạch kinh doanh cho chu kỳ tiếp theo
 👉 Xu hướng sản phẩm đang dịch chuyển theo hướng nào
 
-<!--  -->
+<!-- -->
