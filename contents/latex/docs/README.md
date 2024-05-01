@@ -2,7 +2,6 @@
 
 
  
-Cây nghiệp vụ
 [text](<Yêu cầu phân tích.md>)
 
 ## Quy mô của dữ liệu
