@@ -2,46 +2,46 @@
 
 <!--  -->
 
+<!-- 1.4 Hệ thống dữ liệu					  -->
+<!-- 1.4.1      Quy mô của dữ liệu					  -->
+...
+số lượng bản ghi
+<!-- 1.4.1    Mô tả thông tin dữ liệu			  -->
 
-<!-- 1.3. Yêu cầu phân tích					" -->
-<!-- *) Trình bày theo các chủ điểm cần phân tích -->
-<!-- *) Các chủ điểm này cần quan tâm theo các khía cạnh gì -->
+![alt text](image-28.png)
 
+<!-- Mô tả các trường dữ liệu -->
 
-
-
-
-<!-- *) Trình bày được theo dạng cây yêu cầu phân tích -->
-<!-- cây yêu cầu phân tích -->
-
-
-<!-- *) Trình bày được chi tiết cây phân tích dữ liệu của từng dashboard"	 -->
-<!-- cây phân tích   dashboard -->
+Bảng xxx, dòng xxx để làm gì
 
 
-<!-- 1.4 Hệ thống dữ liệu					" -->
+<!-- 1.4.1   Tần suất cập nhật dữ liệu		  -->
+hình ảnh (dạng biểu đồ theo thời gian)
+=> nhận xét tăng giảm....
 
-*) kích cỡ file dữ liệu, số bảng ghi, số bảng, số thuộc tính,...
-
-
-*) Tần suất , số lượng bản ghi, kích cỡ dữ liệu cập nhật mới với dữ liệu có tính cập nhật
-
-
-*) Trình bày được theo dạng phân loại dữ liệu Data Taxonomy
+<!-- 1.4.1  Dự báo  tần suất cập nhật dữ liệu		 mới -->
+AI
+<!-- 1.4.1   Phân loại dữ liệu Data Taxonomy -->
 
 
-*) Luồng dữ liệu giữa các hệ thống CNTT"	
+
+
+
+
+
+
+
 
 
 
 <!-- ERD hệ thống OLTP, Data flow					 -->
+\*) Luồng dữ liệu giữa các hệ thống CNTT 
 <!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP	 -->
 
 <!--  -->
 
-[text](<Yêu cầu phân tích.md>)
 
-[text](<Quy mô của dữ liệu.md>)
+[text](<xoa/Quy mô của dữ liệu.md>)
 
 # Phân tích và Thiết kế
 
