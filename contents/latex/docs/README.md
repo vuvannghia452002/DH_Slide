@@ -2,6 +2,52 @@
 
 <!--  -->
 
+
+<!--1.2 Quy trình nghiệp vụ			 -->
+<!-- *) có đánh dấu hệ thống phân tích ở những giai đoạn nào của quy trình -->
+
+<!--1.2.1      Mô tả quy trình nghiệp vụ			 -->
+<!--1.2.1      Cây nghiệp vụ			 -->
+<!--1.2.1      Canva			 -->
+
+
+
+<!-- 1.3. Yêu cầu phân tích					" -->
+<!-- *) Trình bày theo các chủ điểm cần phân tích -->
+<!-- *) Các chủ điểm này cần quan tâm theo các khía cạnh gì -->
+
+
+
+
+
+<!-- *) Trình bày được theo dạng cây yêu cầu phân tích -->
+<!-- cây yêu cầu phân tích -->
+
+
+<!-- *) Trình bày được chi tiết cây phân tích dữ liệu của từng dashboard"	 -->
+<!-- cây phân tích   dashboard -->
+
+
+<!-- 1.4 Hệ thống dữ liệu					" -->
+
+*) kích cỡ file dữ liệu, số bảng ghi, số bảng, số thuộc tính,...
+
+
+*) Tần suất , số lượng bản ghi, kích cỡ dữ liệu cập nhật mới với dữ liệu có tính cập nhật
+
+
+*) Trình bày được theo dạng phân loại dữ liệu Data Taxonomy
+
+
+*) Luồng dữ liệu giữa các hệ thống CNTT"	
+
+
+
+<!-- ERD hệ thống OLTP, Data flow					 -->
+<!-- *) Trên OLTP có gạch chân các trường dữ liệu và ghi chú mapping tương ứng khi chuyển sang OLAP	 -->
+
+<!--  -->
+
 [text](<Yêu cầu phân tích.md>)
 
 [text](<Quy mô của dữ liệu.md>)
