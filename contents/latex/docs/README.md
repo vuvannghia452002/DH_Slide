@@ -1,9 +1,7 @@
 [text](<Danh sách thành viên.md>)
 
-# Khảo sát
 
  
-[text](<Quy trình nghiệp vụ.md>)
 Cây nghiệp vụ
 [text](<Yêu cầu phân tích.md>)
 
