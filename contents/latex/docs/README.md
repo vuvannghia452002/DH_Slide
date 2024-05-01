@@ -2,10 +2,7 @@
 
 # Khảo sát
 
-## Phân tích nghiệp vụ
-
-[text](HRM.md)
-[text](<Business Model Canvas.md>)
+ 
 [text](<Quy trình nghiệp vụ.md>)
 Cây nghiệp vụ
 [text](<Yêu cầu phân tích.md>)
