@@ -1,4 +1,3 @@
-[text](<Danh sách thành viên.md>)
 [text](<Kiến trúc hệ thống phân tích dữ liệu.md>)
 [text](<Quy trình ETL.md>)
 [text](<Thực hiện ETL.md>)
