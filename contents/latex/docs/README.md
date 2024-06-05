@@ -96,38 +96,37 @@ Có phân nhóm các dimension có liên quan tơi nhau (VD: tỉnh, vùng, mi�
 
 Sử dụng màu sắc để phân biệt fact & dimension
 Nhóm các vùng có liên quan vào với nhau sử dụng Shape
+
 <!-- Trình bày về bảng chỉ số chính (KPI) cần quan tâm, cây phân tích dashboard -->
+
 Trình bày về bảng KPI
 Trình bày về cây phân tích
 
-
 <!-- Xây dựng hệ thống -->
 <!-- Trình bày về dashboard -->
+
 Có thống kê số lượng dashboard (dash phân tích theo dòng thời gian, dashboard OLAP, dash vận hành, dash thống kê-dự án,...)
 Sử dụng đa dạng biểu đồ
 Có sử dụng slicer trong quá trình phân tích để đi sâu hơn vào 1 vấn đề
 Sử dụng định dạng có điều kiện, DAX. Vd; cho các hoạt động cảnh báo, phân tích tăng trưởng,...
 Public được dashboard lên website
 
-<!-- Trình bày về bài học nhóm đã thu được khi làm -->
-
+<!--  -->
 <!-- Các chủ đề mở rộng -->
 <!-- Cơ sở dữ liệu lớn -->
 <!-- Cơ sở dữ liệu địa lý -->
 <!-- Các giải pháp lưu trữ dữ liệu, so sánh & đánh giá -->
 <!-- Thu thập dữ liệu -->
+<!-- 👉Thu thập dữ liệu thực sử dụng API. Bổ sung thêm -->
+
 <!-- Tiền xử lý dữ liệu -->
+<!-- 🆗Tổ chức hoạt động tiền xử lý dữ liệu trong CSDL. có -->
+<!-- 👉Sử dụng Các ETL tools/Data pipeline. Bổ sung thêm -->
+
 <!-- Các giải pháp tiền xử lý dữ liệu thực tiễn -->
 <!-- Các tính năng cập nhật mới của các công cụ (trực quan hóa dữ liệu, tiền xử lý dữ liệu,...) -->
 
-
-
-
-
-<!-- 🍀 HƯỚNG MỞ RỘNG. -->
-<!-- 🆗Tổ chức hoạt động tiền xử lý dữ liệu trong CSDL. có -->
 <!-- 👉Ứng dụng AI/Copilot. Bổ sung thêm -->
-<!-- 👉Sử dụng Các ETL tools/Data pipeline. Bổ sung thêm -->
-<!-- 👉Thu thập dữ liệu thực sử dụng API. Bổ sung thêm -->
 <!-- 👉Tính năng mới của các công cụ (PowerBI, …). Bổ sung thêm -->
+
 <!-- 🆗Khai phá dữ liêu (phân lớp, phận cụm, luật kết hợp…). có -->
